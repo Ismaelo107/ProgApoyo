@@ -13,10 +13,6 @@ public class Problema417 {
         for (int i = 0; i < cadena.length(); i++) {
 
             char posicion = cadena.charAt(i);
-
-
-
-
         }
     }
 }
